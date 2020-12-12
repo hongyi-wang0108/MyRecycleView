@@ -1,0 +1,5 @@
+Roaming\Tencent\QQ\webkit_cache
+
+C:\Users\10925\AppData\Roaming\Tencent\QQ\AuTemp
+
+C:\Program Files\CCleaner\
